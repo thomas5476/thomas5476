@@ -2,7 +2,7 @@
 
 - I am 18 years old 
 - I visit a job building school
-- I am Global Elite in CS
+- I am Diamond 1
 - Currently in training as a business IT specialist
 
 ## :hammer_and_wrench: Languages and tools I am familiar with:
