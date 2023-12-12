@@ -1,4 +1,4 @@
-## :speech_balloon: About Me:
+## About Me:
 
 - I am 18 years old 
 - I visit a job building school
