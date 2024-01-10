@@ -19,4 +19,4 @@
 <br>
 
 ## :pushpin: My Stats :
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=thomas5476)](https://git.io/streak-stats))](https://git.io/streak-stats)
+([![GitHub Streak](https://streak-stats.demolab.com/?user=thomas5476)](https://git.io/streak-stats))](https://git.io/streak-stats)
