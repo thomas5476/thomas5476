@@ -4,7 +4,7 @@
 - I am Diamond 1
 - Currently in training as a business IT specialist
 
-## :hammer_and_wrench: Languages and tools I am familiar with:
+## :hammer_and_wrench: $\color{red}{\textsf{Languages and tools I am familiar with:}}$
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
@@ -17,7 +17,7 @@
 
 <br>
 
-## :pushpin: My Stats :
+## :pushpin: $\color{red}{\textsf{My Stats :}}$
 [![GitHub Streak](https://streak-stats.demolab.com?user=thomas5476&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 
