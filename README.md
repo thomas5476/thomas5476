@@ -19,5 +19,5 @@
 <br>
 
 ## :pushpin: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=mLoDar&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thomas5476&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
