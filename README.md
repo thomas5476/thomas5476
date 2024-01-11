@@ -1,4 +1,4 @@
-# About me:
+# $\color{red}{\textsf{About me:}}$
 - I am 18 years old 
 - I visit a job building school
 - I am Diamond 1
