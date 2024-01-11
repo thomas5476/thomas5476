@@ -1,6 +1,6 @@
 # $\color{red}{\textsf{About me:}}$
 - I am 18 years old 
-- I visit a job building school
+- I visit a technical job building school
 - I am Diamond 1
 - Currently in training as a business IT specialist
 
