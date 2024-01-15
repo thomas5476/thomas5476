@@ -5,7 +5,7 @@
 - **I am Global Elite**
 
 
-## :hammer_and_wrench: **$${\color{red}Languages and \space \color{lightblue}tools I am \space \color{orange}familiar with:}$$**
+## :hammer_and_wrench: **${\color{red}Languages and \space \color{lightblue}tools I am \space \color{orange}familiar with:}$**
 
 
 <div>
