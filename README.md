@@ -23,4 +23,4 @@
 <br>
 
 ## :pushpin: **$\color{red}{\textsf{My Stats :}}$**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thomas5476&theme=transparent&border=#FF0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thomas5476&border=#FF0000)](https://git.io/streak-stats)
