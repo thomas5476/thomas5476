@@ -5,7 +5,7 @@
 - **I am Global Elite**
 
 
-## :hammer_and_wrench: $\color{red}{\textsf{Languages and tools I am familiar with:}}$
+## :hammer_and_wrench: **$\color{red}{\textsf{Languages and tools I am familiar with:}}$**
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>
@@ -18,5 +18,5 @@
 
 <br>
 
-## :pushpin: $\color{red}{\textsf{My Stats :}}$
+## :pushpin: **$\color{red}{\textsf{My Stats :}}$**
 [![GitHub Streak](https://streak-stats.demolab.com?user=thomas5476&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000&excludeDaysLabel=FF0000)](https://git.io/streak-stats)
