@@ -1,8 +1,8 @@
 # $\color{red}{\textsf{About me:}}$
-- I am 18 years old 
-- I visit a technical school
-- Currently in training as a business IT specialist
-- I am Global Elite
+- **I am 18 years old** 
+- **I visit a technical school**
+- **Currently in training as a business IT specialist**
+- **I am Global Elite**
 
 
 ## :hammer_and_wrench: $\color{red}{\textsf{Languages and tools I am familiar with:}}$
