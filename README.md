@@ -3,7 +3,7 @@
 - **I visit a technical school**
 - **Currently in training as a business IT specialist**
 - **I am Global Elite**
-- **Conect with me on LinkedIn: ** 
+- **Connect with via LinkedIn: https://www.linkedin.com/in/thomas-bamberger-91443b283/** 
 
 
 ## :hammer_and_wrench: **$\color{red}{\textsf{Languages and tools}}$ $\color{lightblue}{\textsf{I am familiar}}$ $\color{yellow}{\textsf{with:}}$**
