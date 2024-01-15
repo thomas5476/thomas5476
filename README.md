@@ -6,7 +6,7 @@
 - **Connect with via LinkedIn: https://www.linkedin.com/in/thomas-bamberger-91443b283/** 
 
 
-## :hammer_and_wrench: **$\color{red}{\textsf{Languages and tools}}$ $\color{blue}{\textsf{I am familiar}}$ $\color{yellow}{\textsf{with:}}$**
+## :hammer_and_wrench: **$\color{red}{\textsf{Languages and tools}}$ $\color{lightblue}{\textsf{I am familiar}}$ $\color{yellow}{\textsf{with:}}$**
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
