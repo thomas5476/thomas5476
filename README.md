@@ -5,8 +5,8 @@
 - **I am Global Elite**
 
 
-## :hammer_and_wrench: **$\color{red}{\textsf{Languages and tools I am familiar with:}}$**
-$${\color{red}Languages and \space \color{lightblue}tools I am \space \color{orange}familiar with:}$$
+## :hammer_and_wrench: **$${\color{red}Languages and \space \color{lightblue}tools I am \space \color{orange}familiar with:}$$**
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
