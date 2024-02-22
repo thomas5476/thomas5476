@@ -3,6 +3,7 @@
 - **I visit a technical school**
 - **Currently in training as a business IT specialist**
 - **I am Global Elite**
+- **History/Geography Nerd**
 - **Connect with via LinkedIn: https://www.linkedin.com/in/thomas-bamberger-91443b283/** 
 
 
