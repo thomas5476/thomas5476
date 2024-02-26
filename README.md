@@ -1,4 +1,4 @@
-# **$\color{red}{\textsf{About me:}}$**:
+# **$\color{red}{\textsf{About me:}}$**
 - **I am 18 years old** 
 - **I visit a technical school**
 - **Currently in training as a business IT specialist**
