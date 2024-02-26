@@ -3,7 +3,7 @@
 - **Currently in training as a business IT specialist**
 - **I am Global Elite**
 - **History/Geography Nerd**
-- **Connect with via LinkedIn: https://www.linkedin.com/in/thomas-bamberger-91443b283/** 
+- **Connect with me via LinkedIn: https://www.linkedin.com/in/thomas-bamberger-91443b283/** 
 
 
 ## :hammer_and_wrench: **$\color{red}{\textsf{Languages and tools}}$ $\color{lightblue}{\textsf{I am familiar}}$ $\color{yellow}{\textsf{with:}}$**
