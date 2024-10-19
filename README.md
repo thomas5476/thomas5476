@@ -1,8 +1,7 @@
 # **$\color{red}{\textsf{About me:}}$**
 - **I am 19 years old** 
 - **Currently in training as a business IT specialist**
-- **I am Global Elite**
-- **History/Geography Nerd**
+- **My boyfriends name is Oscar Paddington Ziemetronen**
 - **Connect with me via LinkedIn: https://www.linkedin.com/in/thomas-bamberger-91443b283/** 
 
 
